@@ -2,6 +2,7 @@
 
 ## Description
 
+The goal of this assignment was to take the given starter code and create the backend for an e-commerce site that uses Express.js API and Sequelize to interact with a MySQL database. The starter code included the models for Category, Product, ProductTag, and Tag, with the goal being to create the proper routes and associations to make the application functional.
  
 ## Table of Contents
 
@@ -14,11 +15,15 @@
 
 ## Installation
 
-
+`git clone https://github.com/Gagucci/013-E-Commerce-Backend.git to clone the repository`
+`npm install to install dependencies`
+`source the schema.sql file in the db folder to create the database`
+`npm run seed to seed the database`
+`npm start to start the server`
 
 ## Usage
 
-
+A backend for an e-commerce site that uses Express.js API and Sequelize to interact with a MySQL database.
 
 ## License
 
@@ -33,8 +38,8 @@ Help received from TA's, my tutor Neil Dhand, and my fellow peers in the UCB Ful
 
 ## images
 
-
+![Screenshot of Insomnia](./images/insomnia.png)
 
 ## Links
 
-[Link to GitHub Repository]()
+[Link to GitHub Repository](https://github.com/Gagucci/013-E-Commerce-Backend.git)
